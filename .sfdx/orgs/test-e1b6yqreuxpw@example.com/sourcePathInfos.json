@@ -1,0 +1,137 @@
+[
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051041527,
+            "changeTime": 1535051041527,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051041527,
+            "changeTime": 1535051041527,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051268669,
+            "changeTime": 1535051268669,
+            "contentHash": "2448061de5e28ea0a6d493ec89014fd3af158a49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051041527,
+            "changeTime": 1535051041527,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051266981,
+            "changeTime": 1535051266981,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535054345963,
+            "changeTime": 1535054345963,
+            "contentHash": "c0c15eff4de3265dc3c93c966498c65d660cb860",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers/EmailTrigger.trigger",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers/EmailTrigger.trigger",
+            "isDirectory": false,
+            "size": 52,
+            "modifiedTime": 1535054345511,
+            "changeTime": 1535054345511,
+            "contentHash": "4c7a97dc42080bd2640c5334d9eacdc07aa9b879",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers/EmailTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce/force-app/main/default/triggers/EmailTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1535051860571,
+            "changeTime": 1535051860571,
+            "contentHash": "35ef6c84f517bec99b5aec703ceda105dc7677ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sartaj/Desktop/AcctFilter/TractionForce",
+        {
+            "sourcePath": "/home/sartaj/Desktop/AcctFilter/TractionForce",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1535051616317,
+            "changeTime": 1535051616317,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
